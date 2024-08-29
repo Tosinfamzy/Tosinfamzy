@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tosin Famurewa (@Tosinfamzy)
 - 🙌🏾 I'm a senior software Engineer at Slalom
-- 👀 I’m interested in Building fun project with Typescript and JavaScript
-- 🌱 I’m currently learning the NESTJS framework and the Dart Programming language
+- 👀 I enjoy Building fun project with Typescript and JavaScript
+- 🌱 I’m currently learning the .NET framework and the C# Programming language
 - 📫 How to reach me famurewatosin@gmail.com
 
 <!---
