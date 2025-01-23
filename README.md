@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tosin Famurewa (@Tosinfamzy)
-- 🙌🏾 I'm a senior software Engineer at Slalom
-- 👀 I enjoy Building fun project with Typescript and JavaScript
-- 🌱 I’m currently learning the .NET framework and the C# Programming language
+- 🙌🏾 I'm a senior software Engineer at Heatio
+- 👀 I enjoy Building fun project with Typescript, GO and Python
+- 🌱 I’m currently doing a deep dive in terraform and it's use with AWS 
 - 📫 How to reach me famurewatosin@gmail.com
 
 <!---
